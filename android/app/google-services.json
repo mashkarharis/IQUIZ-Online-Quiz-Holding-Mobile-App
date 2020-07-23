@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "948135818635",
+    "firebase_url": "https://iquizdb.firebaseio.com",
+    "project_id": "iquizdb",
+    "storage_bucket": "iquizdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948135818635:android:423a41addc2790df556b8e",
+        "android_client_info": {
+          "package_name": "com.mhma.iquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948135818635-42v0m2nank77ngr9kub1l3072jnkej0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjzfEIyg171FJqYqBlk9wK53oL_AcpMEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948135818635-42v0m2nank77ngr9kub1l3072jnkej0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
